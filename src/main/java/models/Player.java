@@ -1,6 +1,6 @@
 package models;
 
-import Attack.AttackProcess;
+import attack.AttackProcess;
 import exceptions.HealingException;
 import exceptions.LogicExceptions;
 import exceptions.CreatureExceptions;

@@ -1,6 +1,6 @@
 package org.application;
 
-import Attack.CubeThrowingAttackProcessImpl;
+import attack.CubeThrowingAttackProcessImpl;
 import models.Monster;
 import models.Player;
 
